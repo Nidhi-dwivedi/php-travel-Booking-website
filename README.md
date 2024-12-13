@@ -52,7 +52,7 @@ Follow these steps to set up the project locally:
 
 2. **Clone the Repository**
    ```bash
-  https://github.com/Nidhi-dwivedi/php-travel-Booking-website.git
+   git clone https://github.com/Nidhi-dwivedi/php-travel-Booking-website.git
    ```
 
 3. **Place Files in htdocs**
@@ -133,4 +133,3 @@ travel-booking-website/
 Feel free to submit issues or pull requests to improve this project. Contributions are always welcome!
 
 ---
-
